@@ -4,3 +4,4 @@ Certification-Journey <br><br>
 -------------------------
 |이름|자료|영상|
 |---|---|---|
+|네트워크관리사 2급|-|[https://www.youtube.com/@tech-network]|
